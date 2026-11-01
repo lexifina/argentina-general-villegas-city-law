@@ -1,0 +1,11 @@
+{
+  "path": "ar-b-general-villegas",
+  "code": "AR-B-GENERAL-VILLEGAS",
+  "name": "General Villegas",
+  "level": "municipality",
+  "parent": "ar-b",
+  "repo": "https://github.com/lexifina/argentina-general-villegas-city-law",
+  "build": "built: municipal ordinances (208 ordinances, 208 versions) from https://sibom.slyt.gba.gob.ar/cities/59",
+  "language": "es",
+  "sources": 1
+}
