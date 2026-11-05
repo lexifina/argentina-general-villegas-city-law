@@ -5,7 +5,7 @@
   "level": "municipality",
   "parent": "ar-b",
   "repo": "https://github.com/lexifina/argentina-general-villegas-city-law",
-  "build": "built: municipal ordinances (208 ordinances, 208 versions) from https://sibom.slyt.gba.gob.ar/cities/59",
+  "build": "built: municipal ordinances (253 ordinances, 253 versions) from https://sibom.slyt.gba.gob.ar/cities/59",
   "language": "es",
   "sources": 1
 }
