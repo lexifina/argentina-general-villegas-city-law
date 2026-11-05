@@ -7,6 +7,7 @@ This file is written by the build on 2026-11-05, the day the source data was ret
 | Source | Address | Retrieved | Licence |
 | --- | --- | --- | --- |
 | Sistema de Boletines Oficiales Municipales (SIBOM), Subsecretaría Legal y Técnica, Secretaría General, Provincia de Buenos Aires: Boletín Oficial Municipal de General Villegas | <https://sibom.slyt.gba.gob.ar/cities/59> | 2026-11-01 | Official municipal ordinances, published in the Boletín Oficial Municipal. Argentina's copyright law (Ley 11.723) has no express exclusion for them; ordinances are public acts of government, binding on everyone once officially published. The source states no restriction on reuse. Reproduced with attribution, following the official text. |
+| Boletín Oficial Municipal de General Villegas (SIBOM) | <https://sibom.slyt.gba.gob.ar/cities/59> | 2026-11-05 | Official municipal ordinances reproduced with attribution. The SIBOM about page states no restriction on reuse. |
 
 Every word of law in this repository comes from these sources. Lexifina reads them and records each act's dated versions, and the laws that made each change, in one corpus file. This repository is built from that file.
 
@@ -222,20 +223,65 @@ Every word of law in this repository comes from these sources. Lexifina reads th
 | `ordenanza-6759-2026` | Ordenanza 6759/2026: Condónase la deuda que registra el contribuyente que se consigna, en concepto de “Tasa por Alumbrado, Limpieza y Conservación de la Vía Pública”, “Fondo Solidario para la Obra Pública” y “Tasa de Seguridad y Defensa Civi | 1 | 2026-04-16 to 2026-04-16 |
 | `ordenanza-6762-2026` | Ordenanza 6762/2026: Acéptese la donación de una pianola intervenida por el artista Carlos Alonso, ofrecida por las señoras María y Mercedes Carrozzi. | 1 | 2026-04-16 to 2026-04-16 |
 | `ordenanza-6763-2026` | Ordenanza 6763/2026: Convalídese el contrato de locación suscripto con el señor Víctor Carlos Capece, DNI N° 5.061.542, celebrado por Decreto Nº 449/26, autorizando la afectación de los fondos que egresen durante la vigencia del mismo, corre | 1 | 2026-04-16 to 2026-04-16 |
+| `ordenanza-5786-2017` | Ordenanza 5786/2017: Ratifíquese el Decreto Nº 1926 de fecha 28 de diciembre de 2016, por las consideraciones expuestas precedentemente. | 1 | 2017-09-01 to 2017-09-01 |
+| `ordenanza-5788-2017` | Ordenanza 5788/2017: Transfiérase a título gratuito al señor NORBERTO ÁNGEL DOYLE, DNI Nº 11.111.836, el inmueble individualizado catastralmente como Circunscripción II- Sección A- Chacra 38- Lote 3a- Fracción II- Parcela Provisoria 3, ubica | 1 | 2017-09-13 to 2017-09-13 |
+| `ordenanza-5795-2017` | Ordenanza 5795/2017: Ratifícase el Decreto Nº 186, de fecha 1 de febrero de 2017, mediante el cual se establece la adjudicación de la Licitación Privada Nº 1/17 “Provisión de mano de obra” para la obra “Provisión de mano de obra y materiales | 1 | 2017-09-13 to 2017-09-13 |
+| `ordenanza-5800-2017` | Ordenanza 5800/2017: Ratifícase el Decreto Nº 372, de fecha 14 de marzo de 2017, mediante el cual se establece la adjudicación de la Licitación Privada Nº 2/17 “Adquisición de una camioneta 4 x 4 – cabina simple para el Hospital Municipal”,  | 1 | 2017-09-13 to 2017-09-13 |
+| `ordenanza-5823-2017` | Ordenanza 5823/2017: Desadjudícase a la señora María Agostina Soria, D.N.I. Nº 36.682.929, el inmueble identificado catastralmente como Circunscripción II, Sección B, Chacra 171, Parcelas 2 y 3, Manzana Provisoria AS, Parcela Provisoria 6, a | 1 | 2017-10-26 to 2017-10-26 |
+| `ordenanza-5826-2017` | Ordenanza 5826/2017: Adjudícase la Licitación Pública N° Nº 3/17 destinada a la “Adquisición de mano de obra y materiales gruesos” para la Obra “Nueva Escuela especial – Emilio V. Bunge”, a la firma Grupo Comarvi S.A., en la suma de Pesos ca | 1 | 2017-10-26 to 2017-10-26 |
+| `ordenanza-5827-2017` | Ordenanza 5827/2017: Créase el Fondo Municipal para la Educación, integrado con los aportes correspondiente al pago de las actividades desarrolladas en el marco de los programas de extensión universitaria y especialización, que se implemente | 1 | 2017-12-15 to 2017-12-15 |
+| `ordenanza-5831-2017` | Ordenanza 5831/2017: Desadjudícase a los señores Valeria Mansilla Rodríguez, DNI N° 23.556.157 y Horacio Enrique Capponi, DNI Nº 16.215.947, el inmueble identificado catastralmente como Circunscripción I, Sección B, Quinta 27, Manzana Provis | 1 | 2017-12-15 to 2017-12-15 |
+| `ordenanza-5840-2017` | Ordenanza 5840/2017: Desadjudícase a la señora Mariana Edith Servera, D.N.I. Nº 32.102.334, el inmueble identificado catastralmente como Circunscripción II, Sección B, Chacra 171, Parcelas 2 y 3, Manzana Provisoria AS, Parcela Provisoria 3,  | 1 | 2018-01-13 to 2018-01-13 |
+| `ordenanza-5856-2017` | Ordenanza 5856/2017: Créase el proyecto municipal de asistencia y apoyo a pacientes celiacos en el partido de General Villegas en adhesión a la Ley Nacional N° 26.588 y a la Ley Provincial N° 10.499, sus modificatorias, o las normas que en e | 1 | 2018-02-07 to 2018-02-07 |
+| `ordenanza-5859-2017` | Ordenanza 5859/2017: Ratíficase el Decreto Nº 1657/17 mediante el cual se adjudicó la Licitación Privada N° 25/17 destinada a la “Provisión de Bienes – 1 Camioneta 4x4 tipo pick up (doble cabina)”, a la firma Dalcros S.A., en la suma de Peso | 1 | 2018-02-18 to 2018-02-18 |
+| `ordenanza-5867-2017` | Ordenanza 5867/2017: Exímase del pago de la “Tasa por Alumbrado, Limpieza y Conservación de la Vía Pública”, “Fondo Solidario para la Obra Pública” y “Tasa de Seguridad y Defensa Civil”, desde el Ejercicio 2017, al contribuyente detallado a  | 1 | 2018-03-23 to 2018-03-23 |
+| `ordenanza-5868-2017` | Ordenanza 5868/2017: Ratifícase el Decreto Nº 1603 de fecha 18 de septiembre de 2017, mediante el cual se establece la adjudicación de la Licitación Privada Nº 31/17 destinada a la “Adquisición de Defensas Metálicas – Proyecto de Hábitat y D | 1 | 2018-03-23 to 2018-03-23 |
+| `ordenanza-5880-2017` | Ordenanza 5880/2017: Transfiérase a título gratuito al señor Gerardo Martín Cayetano Urquiza, D.N.I. Nº 31.042.718, C.U.I.T. Nº 20-31042718-8 el inmueble individualizado catastralmente como Circunscripción II, Sección B, Chacra 135, Manzana  | 1 | 2018-04-15 to 2018-04-15 |
+| `ordenanza-5882-2017` | Ordenanza 5882/2017: Transfiérase a título gratuito a la firma Veterinarias Integradas de Argentina S.A., C.U.I.T. Nº 30-70856578-0, los inmuebles individualizados catastralmente como Circunscripción II, Sección B, Fracción I, Chacra 153, Pa | 1 | 2018-04-15 to 2018-04-15 |
+| `ordenanza-5892-2018` | Ordenanza 5892/2018: Adhiérase la Municipalidad de General Villegas al Programa “Punto Digital”, promovido por la Secretaría País Digital del Ministerio de Modernización de la Nación. | 1 | 2018-11-03 to 2018-11-03 |
+| `ordenanza-5896-2018` | Ordenanza 5896/2018: Desadjudícase al señor Sergio Oscar López, DNI Nº 28.665.552, el inmueble identificado catastralmente como Circunscripción II, Sección B, Chacra 171, Parcelas 2 y 3, Manzana Provisoria AJ, Parcela Provisoria 1, aceptándo | 1 | 2018-11-03 to 2018-11-03 |
+| `ordenanza-5909-2018` | Ordenanza 5909/2018: Autorízase al Departamento Ejecutivo a firmar un contrato de locación de obra con la Empresa Distribuidora de Energía Norte Sociedad Anónima, tendiente a dotar de fluido eléctrico a las manzanas 24a- 24b y 24c de la ciud | 1 | 2018-11-03 to 2018-11-03 |
+| `ordenanza-5919-2018` | Ordenanza 5919/2018: Transfiérase a título gratuito al señor MIGUEL ÁNGEL CAMINOS – D.N.I. Nº 23.556.162, el inmueble individualizado catastralmente como Circunscripción II, Sección B, Chacra 153, Manzana 153c, Parcela 2, ubicado en el Área  | 1 | 2018-11-24 to 2018-11-24 |
+| `ordenanza-5944-2018` | Ordenanza 5944/2018: Desadjudícase al señor Mariano Oscar López, DNI Nº 30.132.392, el inmueble identificado catastralmente como Circunscripción II, Sección B, Chacra 171, Parcelas 2 y 3, Manzana Provisoria Z, Parcela Provisoria 1, aceptándo | 1 | 2019-03-09 to 2019-03-09 |
+| `ordenanza-5946-2018` | Ordenanza 5946/2018: Desadjudícase a los señores Belkis Natacha Vanina Blanco, DNI Nº 29.868.978 y Juan Manuel Actis, DNI Nº 30.226.908, el inmueble identificado catastralmente como Circunscripción II, Sección B, Chacra 171, Parcelas 2 y 3,  | 1 | 2019-03-09 to 2019-03-09 |
+| `ordenanza-5949-2018` | Ordenanza 5949/2018: Adjudícase a la señora MARIA DEL ROSARIO SILVINA RIBERO, DNI Nº 31.346.915, la Vivienda Nº9 del Plan Compartir – Nuestra Casa (16 viviendas en General Villegas) emplazada en el inmueble individualizado catastralmente com | 1 | 2019-03-09 to 2019-03-09 |
+| `ordenanza-5970-2018` | Ordenanza 5970/2018: Autorízase a la Cooperativa de Provisión de Electricidad, Obras y Servicios Públicos Charlone Ltda. a fijar la suma de la tarifa de Desagües Cloacales en Pesos ciento ochenta y nueve con 30/100 ($189,30) más IVA, por boc | 1 | 2019-06-06 to 2019-06-06 |
+| `ordenanza-5986-2018` | Ordenanza 5986/2018: Desadjudícase el inmueble individualizado catastralmente como Circunscripción II, Sección B, Fracción I, Chacra 153, Parcela 4, ubicado en el Sector Industrial Planificado, al señor Alejandro Alfredo Zubimendi, DNI Nº 26 | 1 | 2019-06-06 to 2019-06-06 |
+| `ordenanza-5996-2018` | Ordenanza 5996/2018: De acuerdo con lo establecido en la Ordenanza Fiscal, las tasas, derechos, permisos, patentes, y demás obligaciones, se deberán abonar conforme a las alícuotas y/o importe que se determinan en la presente. | 1 | 2019-07-07 to 2019-07-07 |
+| `ordenanza-6079-2019` | Ordenanza 6079/2019: Convalídese el Contrato de Colaboración suscripto con el Instituto María Inmaculada de General Villegas, tendiente a sostener los costos laborales que demandan las horas cátedras del cuarto año de la carrera de Profesora | 1 | 2020-03-22 to 2020-03-22 |
+| `ordenanza-6083-2019` | Ordenanza 6083/2019: Prorrógase hasta el 10 de Diciembre de 2019 inclusive, la presentación ante este Cuerpo por parte del Departamento Ejecutivo del Cálculo de Recursos y Presupuesto de Gastos que regirá el Ejercicio 2020. | 1 | 2020-03-22 to 2020-03-22 |
+| `ordenanza-6101-2019` | Ordenanza 6101/2019: Ratifíquese el Decreto 2052 de fecha 5 de noviembre 2019, por las consideraciones expuestas precedentemente. | 1 | 2020-03-22 to 2020-03-22 |
+| `ordenanza-6107-2020` | Ordenanza 6107/2020: Convalídese el contrato de locación suscripto con la señora Lisa Dina Olano, celebrado por Decreto Nº 225/20, autorizando la afectación de los fondos que egresen durante la vigencia del mismo, correspondientes a los ejer | 1 | 2020-05-30 to 2020-05-30 |
+| `ordenanza-6115-2020` | Ordenanza 6115/2020: Convalídese los excesos producidos en las Partidas del Presupuesto de Gastos 2019 que se detallan a continuación y que se hallan extralimitadas en su crédito original por el importe de Pesos Veinticinco Millones Cuatroci | 1 | 2020-07-31 to 2020-07-31 |
+| `ordenanza-6128-2020` | Ordenanza 6128/2020: Modifíquese a partir del 1º de agosto de 2020, el artículo 42 inciso 17 de la Ordenanza Nº 6098, el que quedará redactado de la siguiente manera: | 1 | 2020-08-01 to 2020-08-01 |
+| `ordenanza-6155-2020` | Ordenanza 6155/2020: Transfiérase a título gratuito al señor JOSÉ MARTÍN ECHAVE D.N.I N° 16.334.864, el inmueble individualizado catastralmente como Circunscripción II, Sección A, Fracción II, Chacra 38, Parcela Provisoria 11, ubicado en el  | 1 | 2021-02-28 to 2021-02-28 |
+| `ordenanza-6156-2020` | Ordenanza 6156/2020: Desadjudíquense los inmuebles que a continuación se detallan a los beneficiarios indicados, en razón del incumplimiento de las condiciones de adjudicación y el vencimiento de los plazos establecidos en las Ordenanzas Nº  | 1 | 2021-02-28 to 2021-02-28 |
+| `ordenanza-6166-2020` | Ordenanza 6166/2020: Acéptese la cesión efectuada por la señora Jorgelina Alicia Pignanelli, D.N.I N° 22.383.185, a favor del señor Juan Néstor Javier Garibotti D.N.I N° 16.808.742, el inmueble identificado catastralmente como Circunscripció | 1 | 2021-02-28 to 2021-02-28 |
+| `ordenanza-6173-2020` | Ordenanza 6173/2020: Transfiérase a título gratuito a la firma AGUAMAT S.H, CUIT Nº 30-71595369-9, el inmueble individualizado catastralmente como Circunscripción II, Sección A, Chacra 38, Fracción I, Parcela 3, ubicado en el Área de Servici | 1 | 2021-02-28 to 2021-02-28 |
+| `ordenanza-6188-2020` | Ordenanza 6188/2020: Transfiérase a título gratuito al señor Luis Oscar Chirizola, DNI Nº 16.118.882, el inmueble individualizado catastralmente como Circunscripción II, Sección B, Chacra 153, Manzana 153c, Parcela 3, ubicado en el Sector In | 1 | 2021-02-28 to 2021-02-28 |
+| `ordenanza-6198-2021` | Ordenanza 6198/2021: Adjudícase la Licitación Pública Nº 1/21 destinada a la “Provisión de mano de obra y materiales para el círculo cerrado de viviendas”, aprobada por Decreto Nº 128/21, al oferente Construcciones Baufeld SRL, en la suma de | 1 | 2021-07-17 to 2021-07-17 |
+| `ordenanza-6204-2021` | Ordenanza 6204/2021: Autorízase con carácter de excepción a la Asociación Cooperadora del Hospital Interzonal General de Agudos “Dr. Abraham Félix | 1 | 2021-07-17 to 2021-07-17 |
+| `ordenanza-6207-2021` | Ordenanza 6207/2021: Modifíquese la titularidad del inmueble adjudicado por Ordenanza Nº 5327/13, identificado catastralmente como Circunscripción I, Sección B, Quinta 31, Parcela Provisoria 15m, designandosé como beneciaria a la señora Meli | 1 | 2021-07-17 to 2021-07-17 |
+| `ordenanza-6212-2021` | Ordenanza 6212/2021: Sustitúyase el inmueble individualizado catastralmente como Circunscripción II, Sección B, Chacra 153, Parcela 1a, Manzana Provisoria 153f, Parcela Provisoria 1, por el inmueble identificado catastralmente como Circunscr | 1 | 2021-07-17 to 2021-07-17 |
+| `ordenanza-6216-2021` | Ordenanza 6216/2021: Otórguese al señor Fernando Diego Urchipía, DNI N° 25.879.623, autorización del uso del espacio aéreo para la instalación del tendido de red de fibra óptica en la ciudad de General Villegas, en las áreas denominadas Etap | 1 | 2021-07-17 to 2021-07-17 |
+| `ordenanza-6222-2021` | Ordenanza 6222/2021: Adjudícase la Licitación Pública N° Nº 6/21 destinada a la “Provisión y traslado de compuesto dolomítico para mejorado en la localidad de Cañada Seca”, al oferente RICARDO ALFREDO LAGO, en la suma de Pesos seis millones  | 1 | 2021-07-17 to 2021-07-17 |
+| `ordenanza-6227-2021` | Ordenanza 6227/2021: La presente Ordenanza regirá el procedimiento a aplicar respecto de los inmuebles a incorporarse al Programa Lotes con Servicios previsto en la Ley N° 14.449 y su reglamentación aprobada por Decreto N° 1062/13. | 1 | 2021-07-17 to 2021-07-17 |
+| `ordenanza-6251-2021` | Ordenanza 6251/2021: Ratifícase el Decreto Nº 1519 de fecha 24 de septiembre 2021, mediante el cual se establece la adjudicación de la Licitación Privada N°18/21 destinada a la “Adquisición de combustible – Abastecimiento para maquinarias de | 1 | 2022-01-21 to 2022-01-21 |
+| `ordenanza-6270-2021` | Ordenanza 6270/2021: Modifíquese la titularidad del inmueble adjudicado por Ordenanza Nº 5327/13, identificado catastralmente como Circunscripción I, Sección B, Quinta 31, Parcela 14m, designandosé como única beneciaria a la señora Irma Cris | 1 | 2022-01-21 to 2022-01-21 |
 
-The build made 208 commits:
+The build made 253 commits:
 
 | Commits | Kind |
 | ---: | --- |
-| 208 | first version of an act |
+| 253 | first version of an act |
 | 0 | one law on its in-force day |
 | 0 | changes no amendment note explains, credited to the publisher |
 
 Other counts:
 - 0 commits on the branch `futuro`: laws not yet in force on 2026-11-05.
 - 0 commits dated 1 January 1970: in force before 1970, with the real day in their `In-force` trailer.
-- 208 laws in the record.
-- 416 tags.
+- 253 laws in the record.
+- 461 tags.
 
 ## Dates
 
@@ -247,15 +293,15 @@ When a law gives no date of its own, the default rule applies: An ordinance take
 
 `tools/build.py` turns the corpus into this history in one pass: one commit per law, on the day it took effect. The same corpus always gives the same commit hashes. `tools/check_repo.py` reads every version back from git and compares it with the corpus. `tools/on.py` shows the law as it stood on any date. The corpus format is described in `tools/SCHEMA.md`.
 
-- Corpus: sha256 `81f4f3d5be149483186a27c5c2f816d07a6d0426cff394dc08eb33d0672dabb3` (1187148 bytes).
+- Corpus: sha256 `0e3347dc669c5a4dd662471e05b1074c56e00b30ed72663d91d8b10c1a74cd2e` (1505527 bytes).
 - Builder blob hashes (`git hash-object`): `build.py` `35388bee5aa05369f7da68f5a8fa015ea8d442b8`, `check.py` `5d719354ea4c62d240c93d2cae446307d81d9e81`, `on.py` `aff48cf1b68d50c7ba8f399ca32261871c301824`.
 - Python 3.14.4; git version 2.53.0.
 
 ## Checks
 
-208 versions of 208 acts read back from git on the day each took effect and on the day before: 0 mismatches. Trailers: 0 commits whose trailers git cannot parse. Health: 0 merge commits on main, 0 commit dates that go backwards, 0 commits dated after the build.
+Not yet run for this build.
 
-No second build of this corpus has been compared yet.
+A second build from the same corpus into an empty folder gave identical hashes for all 253 history commits and 461 tags (history tip `763c13669599072baf8a99214ce509304789e47e`).
 
 ## Decisions made by hand
 
@@ -264,6 +310,9 @@ No second build of this corpus has been compared yet.
 - The Province of Buenos Aires gives its municipalities no carta orgánica: their organic law is the provincial Ley Orgánica de las Municipalidades (Decreto-Ley 6769/58), which is provincial law and not included here. So this repository starts with ordinances.
 - Ordinances are taken from SIBOM's ordinance search for the partido, read from its last result page back (the search lists them only roughly in date order) until about 200 are found, the newest it holds. They are sorted by the day they took effect and added oldest first in parts of about 50, so each part extends the history forward. An ordinance whose page carries only an extract, no article, or its text only as a PDF annex is left out; the README lists every ordinance left out and why. An ordinance published twice is taken from its first publication.
 - Units: the heading (encabezado: number, place and date, the expediente line and anything before Artículo 1) and one file per article, holding the article and everything printed after it up to the next article (signatures, annexes). Nothing is dropped. One paragraph per line, spacing normalised.
+- Each added act is the oldest official text available, as published. Source publication dates and any commencement clause determine its version date; no date uses retrieval as a substitute.
+- Published act files and existing source parts remain unchanged.
+- Rework: seven acts are held for unsupported promulgation/campaign boundaries or unavailable incorporated agreement, annexes or map. Ordenanza 6128/2020 uses the explicit retroactive 2020-08-01 boundary in article 1; legal words remain verbatim.
 
 ## What AI did and did not do
 
@@ -275,3 +324,4 @@ The commit messages are written by `build.py` from the source data.
 
 Model use at data-build time:
 - A model (Claude) wrote the fetch and parse code and chose which norms to include; it wrote no law text. Every word of law comes from the provincial source's own texts.
+- GPT-6 wrote and reviewed parsing and validation code. It supplied no legal text and performed no OCR.
